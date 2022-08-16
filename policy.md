@@ -70,6 +70,7 @@ Types of vulnerabilities that may result in these impacts include:
 # Scope
 * Only those projects listed, and the identified repositories are in scope.
 * Issues that may impact users with runtime components in production environments.
+
 If you have any questions, please ask us at security@hyperledger.org BEFORE performing any testing.
 
 ## Out of Scope
@@ -77,6 +78,7 @@ If you have any questions, please ask us at security@hyperledger.org BEFORE perf
 * Any Hyperledger projects that have not reached 1.0 status. Only issues found against Hyperledger Fabric 1.0+ will be eligible for bounties.
 * All test and documentation code.
 * Issues in non-Hyperledger dependent projects. Issues in dependent projects should be reported directly to the respective project. Hyperledger projects regularly update dependency versions to fix issues identified in dependent projects.
+
 If you identify any scopes not listed above that you believe belong to Hyperledger, please let us know at security@hyperledger.org BEFORE performing any testing.
 
 ## Out of scope vulnerabilities
