@@ -1,4 +1,4 @@
-**NOTE:** None of the web sites run by The Linux Foundation or by Hyperledger are eligible for the bounty. That means only the code *in* the Hyperledger Fabric codebase is eligible for the bounty.  Everything else, including our websites, are *not* in scope (e.g. JIRA, Gerrit, Rocket.Chat, homepage, and wiki).
+**NOTE:** None of the web sites run by The Linux Foundation or by the Hyperledger Foundation are eligible for the bounty. That means only the code *in* the Hyperledger Fabric codebase is eligible for the bounty.  Everything else, including our websites, are *not* in scope (e.g. JIRA, Gerrit, Rocket.Chat, homepage, and wiki).
 
 **UPDATE:** We now have a free online course that covers all of the details of setting up a Hyperledger Fabric test network for analysis.  The link to the course is: https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS171x+3T2017/course/
 
@@ -8,7 +8,7 @@ Because blockchain and distributed ledger technology has such a wide range of ap
 
 Because Hyperledger projects are in various stages of development and maturity, the community has chosen to limit our bug bounty program to those projects that have reached a “1.0” release maturity.  Additional projects will be joining the bug bounty in the near future, and we invite you to also review those when they join the bounty program.
 
-The Hyperledger security team consists of volunteer open source developers that will make a best effort to respond to incoming reports within 2 business days and make a bounty determination after validating a legitimate security issue within 60 business days. Our transparency is greater than other organizations, however we are using a confidential vulnerability reporting and resolution system. We will do our best to keep you informed about our progress throughout the process and per our security policy, all vulnerabilities will be disclosed responsibly.
+The Hyperledger Foundation security team consists of volunteer open source developers that will make a best effort to respond to incoming reports within 2 business days and make a bounty determination after validating a legitimate security issue within 60 business days. Our transparency is greater than other organizations, however we are using a confidential vulnerability reporting and resolution system. We will do our best to keep you informed about our progress throughout the process and per our security policy, all vulnerabilities will be disclosed responsibly.
 
 To better stay connected with the Hyperledger developers, it is recommended that you create a Linux Foundation ID at https://identity.linuxfoundation.org.  With the Linux Foundation ID you can access our RocketChat server (like Slack) at https://chat.hyperledger.org.  We also have active mailing lists that you can join by going to https://lists.hyperledger.org/mailman/listinfo.  You will also be able to access our JIRA bug tracking system at https://jira.hyperledger.org.
 
@@ -31,7 +31,7 @@ Come hang out with us--or just lurk--in our chat and mailing lists.  We’d love
 * Amounts below are the minimum we will pay per category. We aim to be fair; all reward amounts are at our discretion.
 
 #Rewards
-Our rewards are based on the impact of a vulnerability. Please note these are general guidelines and examples, and that reward decisions are up to the discretion of the Hyperledger security team. 
+Our rewards are based on the impact of a vulnerability. Please note these are general guidelines and examples, and that reward decisions are up to the discretion of the Hyperledger Foundation security team. 
 
 ## Critical severity bugs - minimum [$2000]
 Types of impacts that Hyperledger would consider to be critical include:
@@ -71,7 +71,7 @@ Types of vulnerabilities that may result in these impacts include:
 Only those projects listed, and the identified repositories are in scope.  If you have any questions, please ask us at security@hyperledger.org BEFORE performing any testing.
 
 ## Out of Scope
-* All of the Linux Foundation infrastructure in general and all of the Hyperledger infrastructure, specifically.
+* All of the Linux Foundation infrastructure in general and all of the Hyperledger Foundation infrastructure, specifically.
 * Any Hyperledger projects that have not reached 1.0 status. Only issues found against Hyperledger Fabric 1.0+ will be eligible for bounties.
 * All test code.
 If you identify any scopes not listed above that you believe belong to Hyperledger, please let us know at security@hyperledger.org BEFORE performing any testing.
